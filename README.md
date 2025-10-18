@@ -1,7 +1,7 @@
 # basecamp-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Basecamp
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Basecamp](https://www.cdata.com/drivers/basecamp/download/mcp/). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for Basecamp](https://www.cdata.com/drivers/basecamp/download/mcp/). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Basecamp supported by the [CData JDBC Driver for Basecamp](https://www.cdata.com/drivers/basecamp/jdbc/).
 
